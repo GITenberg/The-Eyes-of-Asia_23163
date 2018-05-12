@@ -1,0 +1,35 @@
+_repo: The-Eyes-of-Asia_23163
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Kipling, Rudyard
+    aliases:
+    - Kipling, Joseph Rudyard
+    - Kipling, R. (Rudyard)
+    birthdate: 1865
+    deathdate: 1936
+    gutenberg_agent_id: '132'
+    url: http://www.gutenberg.org/2009/agents/132
+    wikipedia: http://en.wikipedia.org/wiki/Rudyard_Kipling
+description: The Eyes of Asia consists of four letters written by a fictional soldier
+  of the Indian Army--part of the British Forces in WWI--serving in Europe and Africa.
+  Based on Kipling's firsthand experience with Indian soldiers, the letters are an
+  intriguing form of fiction and an unusual portrait of these lesser-known combatants
+  in the Great War.
+gutenberg_issued: '2007-10-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23163'
+  lccn: '18020969'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'World War, 1914-1918'
+title: The Eyes of Asia
+url: http://www.gutenberg.org/ebooks/23163
